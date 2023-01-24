@@ -3,6 +3,6 @@
 
 文档:
 
-[DotCS 插件事件文档](docs/DotCS 插件事件event.md)
+[DotCS 插件事件文档](./docs/DotCS 插件事件event.md)
 
-[DotCS 插件api文档](docs/DotCS 插件api.md)
+[DotCS 插件api文档](./docs/DotCS 插件api.md)
